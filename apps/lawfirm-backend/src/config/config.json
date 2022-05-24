@@ -1,0 +1,3 @@
+{
+  "DB_HOST": "mongodb+srv://lawfirm:ashutec2017@cluster0.qp4wi.mongodb.net/Law_firm?retryWrites=true&w=majority"
+}

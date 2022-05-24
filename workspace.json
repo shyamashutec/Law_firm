@@ -2,6 +2,8 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
-    "lawfirm-backend": "apps/lawfirm-backend"
+    "lawfirm-backend": "apps/lawfirm-backend",
+    "lawfirm-frontend": "apps/lawfirm-frontend",
+    "lawfirm-frontend-e2e": "apps/lawfirm-frontend-e2e"
   }
 }

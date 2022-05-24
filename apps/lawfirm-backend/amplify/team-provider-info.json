@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lawfirm-dev-113319-authRole",
+      "UnauthRoleArn": "arn:aws:iam::441392896262:role/amplify-lawfirm-dev-113319-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::441392896262:role/amplify-lawfirm-dev-113319-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-lawfirm-dev-113319-deployment",
+      "UnauthRoleName": "amplify-lawfirm-dev-113319-unauthRole",
+      "StackName": "amplify-lawfirm-dev-113319",
+      "StackId": "arn:aws:cloudformation:us-east-1:441392896262:stack/amplify-lawfirm-dev-113319/65c455b0-d282-11ec-b0d4-0e59a87078f3",
+      "AmplifyAppId": "d7km083ut172u"
+    },
+    "categories": {
+      "auth": {
+        "LawFirm": {}
+      }
+    }
+  }
+}
